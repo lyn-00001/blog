@@ -54,7 +54,7 @@ export default defineConfig({
           },
         ]
       },
-      { text: 'Flutter', link: '/flutter' },
+     
     ],
     sidebar: [
       {
@@ -67,7 +67,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/W2XiaoYu' }
+      { icon: 'github', link: 'https://github.com/lyn-00001' }
     ]
   },
 })

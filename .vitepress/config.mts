@@ -3,8 +3,8 @@ export const baseUrl = '/blog/'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: baseUrl,
-  title: "CongWong的笔记",
-  description: "记录自己",
+  title: "刘英楠",
+  description: "记录王舒彦当狗的日子",
   head: [
     ['link', { rel: 'icon', href: baseUrl + 'favicon.ico' }]
   ],

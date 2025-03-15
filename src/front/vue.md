@@ -4,10 +4,10 @@
 
 ### v-animate 动画指令，实现元素在视口内执行动画/也可以实现图片懒加载
 
-```ts
-
+```ts    
+    
 import type { App } from 'vue';
-// 指令
+// 指令85525525
 export const defineDirective = (app:App) => {
   // 元素滚动动画
   app.directive('animate', {
